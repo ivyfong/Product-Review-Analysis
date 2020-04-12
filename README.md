@@ -14,11 +14,11 @@ For this project, product reviews for mobile electronics and major appliances we
 ## **Data Source:**
 Amazon Product Reviews: https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt
     
-## **Screenshots:**
-Product Review Summary - Mobile Electronics
+## **Screenshots (Product Review Summaries):**
+Mobile Electronics
 
 ![screenshot1.jpg](Images/MobileElectronics_Reviews_Summary.JPG)
 
-Product Review Summary - Major Appliances
+Major Appliances
 
 ![screenshot2.jpg](Images/MajorAppliance_Reviews_Summary.JPG)
